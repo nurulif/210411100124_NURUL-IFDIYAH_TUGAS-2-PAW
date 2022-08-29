@@ -1,0 +1,25 @@
+
+form {
+    margin: 2rem auto;
+    width: 30rem;
+    padding: 1rem;
+    align-content: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+label {
+    float:left;
+    width: 10rem;
+    align-content: center;
+}
+
+input[type=text], select {
+    width: 13rem;
+    margin: 0.1rem;
+    display: inline-block;
+    box-sizing: border-box;
+    align-content: center;
+}
